@@ -39,7 +39,7 @@ public class EmailEvaluatorOptimizer {
 
         // Safety check - don't go on forever!
         if (attemptNumber > MAX_ATTEMPTS) {
-            processLog.add("Reached maximum attempts - returning best version");
+            processLog.add("Reached maximum attempts");
             return new EmailResult("Maximum attempts reached", processLog);
         }
 

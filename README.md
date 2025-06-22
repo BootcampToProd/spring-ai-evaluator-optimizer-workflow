@@ -5,6 +5,9 @@ This repository demonstrates the **Spring AI Evaluator Optimizer Workflow Patter
 📖 **Dive Deeper**: For a complete walkthrough, detailed explanations of the Evaluator Optimizer Workflow pattern, and step-by-step instructions for building the example application, read our comprehensive blog post.<br>
 👉 [Spring AI Evaluator Optimizer Pattern: Building Smarter AI That Gets Better With Each Try](https://bootcamptoprod.com/spring-ai-evaluator-optimizer-pattern-guide/)
 
+🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
+👉 [Spring AI Evaluator Optimizer Pattern: Building Smarter AI That Gets Better With Each Try](https://youtu.be/ztwDbOQXlTA)
+
 ---
 
 ## 📦 Environment Variables
